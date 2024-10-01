@@ -1,5 +1,8 @@
 # Context-Aware Conversational AI Interface
 This repository contains a conversational AI interface that leverages context-aware language models to provide intelligent and relevant responses to user queries. The interface is built using Python and utilizes various libraries and techniques to enhance the user experience and improve the quality of the AI-generated responses.
+
+![interface](https://github.com/user-attachments/assets/6be32b22-97c7-4237-b498-8444a28f9dae)
+
 ## Key Features
 
 - Context-Aware AI: The conversational interface incorporates context-aware AI models that analyze the user's input and relevant historical context to generate more accurate and coherent responses. It considers factors such as the main topic, important details, unique phrases, sentiment, and references to previous messages to provide a tailored response.
